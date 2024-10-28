@@ -26,3 +26,20 @@ To combine different files in Excel using Power Query, follow these steps:
     Load Data: The combined data from all files will be loaded into your workbook.
 
  You can list all column headers, note whether they are original or added later, and provide descriptions for each field
+
+
+ ## Data Visualisation
+
+ | Visualization   | Type of Data             | Best Use Case                      | Example                                |
+|-----------------|--------------------------|------------------------------------|----------------------------------------|
+| **Histogram**   | Continuous               | Distribution                       | Age distribution                       |
+| **Bar Chart**   | Categorical              | Comparisons                        | Purchases by product type              |
+| **Line Chart**  | Time-Series              | Trends over time                   | Website visits over months             |
+| **Scatter Plot**| Continuous               | Relationships                      | Income vs. Spending                    |
+| **Box Plot**    | Continuous               | Outliers & Spread                  | Purchase value analysis                |
+| **Pie Chart**   | Categorical              | Proportions                        | Sales channel share                    |
+| **Heatmap**     | Matrix/Correlations      | Intensity & Correlation            | Spending correlations                  |
+| **Pair Plot**   | Multiple Variables       | Relationships                      | Product spending patterns             |
+| **Violin Plot** | Categorical/Continuous   | Distribution Comparison            | Income by education                    |
+| **Bubble Chart**| Multidimensional         | 3-variable comparison              | Income vs. Spending vs. Purchases      |
+
